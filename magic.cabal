@@ -1,4 +1,4 @@
-name:          magic
+name:          git-magic
 version:       0.1.0.0
 synopsis:      Git imbued sorcery for programming wizards
 description:   Git imbued sorcery for programming wizards.
@@ -12,7 +12,7 @@ category:      Development
 build-type:    Simple
 cabal-version: >= 1.8
 
-executable magic
+executable git-magic
   hs-source-dirs: src
   main-is:        Main.hs
   build-depends:
